@@ -1,3 +1,8 @@
 ipykernel
 nbformat
 python-dotenv
+google-adk
+neo4j
+litellm
+neo4j-graphrag
+rapidfuzz
